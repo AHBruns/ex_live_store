@@ -32,7 +32,7 @@ defmodule ExLiveStore.MixProject do
   defp package do
     [
       licenses: ["MIT"],
-      links: %{}
+      links: %{"GitHub" => "https://github.com/AHBruns/ex_live_store"}
     ]
   end
 end
